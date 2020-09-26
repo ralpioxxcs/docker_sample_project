@@ -1,7 +1,11 @@
 # docker_test
 
 ## command
-`docker build -t docker_test:1.0`
+
+### build
+`docker build -t docker_test:1.0`  
+
+### run
 `docker run docker_test:1.0`
 
 
